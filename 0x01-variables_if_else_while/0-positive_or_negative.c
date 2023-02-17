@@ -1,10 +1,12 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
+
 /**
  * main -main block
+ *
  * description :get the random number and check is postive, negative, or zero
- * return: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
