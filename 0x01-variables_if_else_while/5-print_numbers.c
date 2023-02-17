@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<time.h>
-#include<stdlib>
+#include<stdlib.h>
 /**
  * main - main block
  * Description: print all signils digits number of bbsw
- * staring from 0 ..,how 
+ * staring from 0..,how
  * Return: 0
  */
 int main(void)
@@ -18,5 +18,5 @@ int main(void)
 	}
 
 	putchar('\n');
-	return(0);
+	return (0);
 }
